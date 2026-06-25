@@ -29,7 +29,7 @@ const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "杜灿",
   photo: "./img/杜灿.jpg",       // Place your photo in the img/ folder
-  music: "./music/hbd.mpeg",      // Place your music in the music/ folder
+  music: "./music/未闻花名 - 时代少年团.mp3",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
   // A toggle button lets the viewer switch between dark & light mode.
@@ -70,7 +70,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!!祝你天天开心快快乐乐好吃好喝身体健康万事如意心想事成自由自在越来越美，恭喜你又老了一岁！恭喜你🎉被我恭喜到了 每个成功的女人的背后都有一个坚实的脊柱 当然还有哥的支持😎，不知道你有没有想哥啊，反正 祝你十九岁生日快乐🎂记得给我包红包😘 ",
+        "Happy birthday to youu!!祝你天天开心快快乐乐好吃好喝身体健康万事如意心想事成自由自在越来越美，恭喜你又老了一岁！恭喜你🎉被我恭喜到了 每个成功的女人的背后都有一个坚实的脊柱 当然还有哥的支持😎，不知道你有没有想哥啊，反正 祝你十九岁生日快乐🎂 ",
       buttonText: "Send",
     },
     {
@@ -83,7 +83,8 @@ const CONFIG = {
         "但我又不想给你包红包😜",
         "所以就捣鼓出来了这个",
         "虽然算不上精美和好看，那你就凑合着看吧",
-        "  🫶<strong>❤️</strong>.",
+        "奥对了，这个BGM咋样😎",
+        "  <strong>❤️❤️❤️</strong>.",
         " <span>:)</span>",
       ],
       bigLetters: "SO",
@@ -95,7 +96,7 @@ const CONFIG = {
     },
     {
       type: "stars",
-      count: 40,
+      count: 50,
     },
     {
       type: "balloons",
