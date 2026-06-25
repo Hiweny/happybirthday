@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi",
-      subtitle: "I really like your name btw!",
+      subtitle: "准备好迎接你的生日祝福了吗",
     },
     {
       type: "countdown",
@@ -65,12 +65,12 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "生日快乐!!！",
+      text: "19岁生日快乐!🎂🎂",
     },
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy birthday to youu!! ",
       buttonText: "Send",
     },
     {
