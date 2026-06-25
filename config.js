@@ -70,24 +70,28 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! ",
+        "Happy birthday to youu!!祝你天天开心快快乐乐好吃好喝身体健康万事如意心想事成自由自在越来越美，恭喜你又老了一岁！恭喜你🎉被我恭喜到了 每个成功的女人的背后都有一个坚实的脊柱 当然还有哥的支持😎，不知道你有没有想哥啊，反正 祝你十九岁生日快乐🎂记得给我包红包😘 ",
       buttonText: "Send",
     },
     {
       type: "ideas",
       lines: [
-        "That's what I was going to do.",
-        "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
-        "Because,",
-        "You are Special <span>:)</span>",
+        "我说完了",
+        "嗯？你怎么还在看",
+        "那就再听我叨叨几句吧"
+        "我是之前在手机日历里记了你的生日，所以有消息提醒"
+        "但我又不想给你包红包😜"
+        "所以就捣鼓出来了这个"
+        "虽然算不上精美和好看，那你就凑合着看吧"
+        "  🫶<strong>❤️</strong>."
+        " <span>:)</span>",
       ],
       bigLetters: "SO",
     },
     {
       type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      text: "朱颜长似，头上花枝，岁岁年年。",
+      author: "葛胜仲《诉衷情·友人生日》",
     },
     {
       type: "stars",
@@ -95,7 +99,7 @@ const CONFIG = {
     },
     {
       type: "balloons",
-      count: 25,
+      count: 30,
     },
     {
       type: "profile",
@@ -104,7 +108,7 @@ const CONFIG = {
     },
     {
       type: "fireworks",
-      count: 24,
+      count: 30,
     },
     {
       type: "confetti",
@@ -112,7 +116,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
+      text: "怎么样？还不错吧😎",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
