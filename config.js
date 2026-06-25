@@ -95,6 +95,26 @@ const CONFIG = {
       author: "葛胜仲《诉衷情·友人生日》",
     },
     {
+      type: "quote",
+      text: "岁岁春无事，相逢总玉颜。",
+      author: "屈大均《赠尹子生日》",
+    },
+    {
+      type: "quote",
+      text: "今年见，明年重见，春色如人面。",
+      author: "毛滂《点绛唇·家人生日》",
+    },
+    {
+      type: "quote",
+      text: "岁岁年年，万喜万般宜。",
+      author: "沈复《浮生六记》",
+    },
+    {
+      type: "quote",
+      text: "且喜且乐，且以永日。",
+      author: "《诗经》",
+    },
+    {
       type: "stars",
       count: 50,
     },
